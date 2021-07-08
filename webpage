@@ -8,12 +8,16 @@ h1 {
   color: red;
 }
 
+p {
+  font-style: italic;
+}
+
 </style>
 </head>
 
 <body>
 
-<h1>Test header</h1>
+<h1>The Witcher 3: Wild Hunt has valid place in argument for greatest video game ever created</h1>
 
 <p>This is my very first attempt at making a web page. I've struggled with maintaining motivation to practice <br>
 coding so I'm hoping that working on something with respect to a game I love will mitigate that.</p>
