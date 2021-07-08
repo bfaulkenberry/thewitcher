@@ -5,13 +5,13 @@
 <style>
 
 h1 {
-  font-style: italic;
+  font-family: fantasy;
   color: red;
   text-align: center;
 }
 
 p {
-  font-style: italic;
+  font-family: italic;
 }
 
 </style>
