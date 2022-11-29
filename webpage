@@ -2,6 +2,8 @@
 <html>
   <meta charset="utf-8">
 <head>
+<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
 <style>
 
 h1 {
@@ -21,8 +23,7 @@ p {
 
 <h1>The Witcher 3: Wild Hunt</h1>
 
-<p>This is my very first attempt at making a web page. I've struggled with maintaining motivation to practice <br>
-coding so I'm hoping that working on something with respect to a game I love will mitigate that.</p>
+<p>Coming soon.</p>
 
 </body>
 
